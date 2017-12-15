@@ -20,12 +20,13 @@ commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis d
 montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: manuk.karapetyan@gmail.com
+phone: '+380679049845'
+website: kmanuk.github.io #do not add http://
+linkedin: manuk-karapetyan
+github: kmanuk
+twitter: '@arm2pro'
+skype: 'arm2pro'
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
