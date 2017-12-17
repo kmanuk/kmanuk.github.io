@@ -5,6 +5,9 @@
   name: Postgres, MySQL, Oracle
   level: 95%
 - skill:
+  name: REST & API
+  level: 92%
+- skill:
   name: Javascript & jQuery
   level: 81%
 - skill:
