@@ -1,18 +1,24 @@
 - skill:
   name: Ruby on Rails
-  level: 85%
-- skill:
-  name: Python & Django
   level: 98%
+- skill:
+  name: Postgres, MySQL, Oracle
+  level: 95%
 - skill:
   name: Javascript & jQuery
+  level: 81%
+- skill:
+  name: React
+  level: 60%
+- skill:
+  name: Sidekiq/Resque/Delayed Job
   level: 98%
 - skill:
-  name: Angular
-  level: 98%
+  name: Continuous Integration
+  level: 85%
 - skill:
   name: HTML5 & CSS
   level: 95%
 - skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: Payment Systems
+  level: 80%
