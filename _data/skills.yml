@@ -20,11 +20,11 @@
   name: Continuous Integration
   level: 85%
 - skill:
-  name: HTML5 & CSS
-  level: 95%
-- skill:
   name: Java, C#, Python
   level: 65%
+- skill:
+  name: HTML5 & CSS
+  level: 95%
 - skill:
   name: Payment Systems
   level: 80%
