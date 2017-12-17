@@ -11,7 +11,7 @@
   name: React
   level: 60%
 - skill:
-  name: Sidekiq/Resque/Delayed Job
+  name: Background Jobs
   level: 98%
 - skill:
   name: Continuous Integration
