@@ -1,11 +1,7 @@
-- intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: FieldWatch
+  link: "https://fieldwatch.co"
+  tagline: "Service specifically targeted to the Direct Sales industry it provides automate process to scour the web and social channels for items linking certain URLs, blogs, social handles, or other profiles. System finds clients’ representatives and search for violations, guidelines for which have been given by the client."
 - project:
   title: DevStudio
   link: "#"
