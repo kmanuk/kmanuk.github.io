@@ -18,3 +18,7 @@
   title: Cuponation
   link: "https://www.cuponation.com/"
   tagline: "Writing Automation tests in Ruby for coupon dealing websites. And also manual QA if its needed. (see websites - cuponation.com)"
+- project:
+  title: LSBank
+  link: "http://lsoft.am/"
+  tagline: "Developed Banking System application for five largest banks of Armenia."
