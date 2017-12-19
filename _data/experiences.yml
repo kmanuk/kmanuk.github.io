@@ -22,15 +22,11 @@
   role: Senior Automation QA Engineer
   time: 2013 - 2014
   company: Cuponation, Munich
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  details: "Writing Automation tests for websites in Ruby using Selenium Webdriver. Manual QA if needed.
+  Involved in deployment process also."
 - experience:
   role: Oracle Database Developer
   time: 2011 - 2013
   company: Lsoft LTD, Yerevan
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  details: "Implement new features on Oracle in PL/SQL language. Small Java feature implementation for
+  the Bank System. Support and bugfix."
