@@ -2,9 +2,7 @@
   role: Full Stack Ruby on Rails Developer
   time: 2017 - Present
   company: Customertimes, Kyiv
-  details: "Develop new features from scratch, maintain old ones. Writing unit and integration
-  tests for the features. Involved in the process of support/maintain/bugfix in different projects.
-  Designed the Deployment and Continuous Integration processes."
+  details: "Develop new features from scratch, maintain old ones. Writing unit and integration tests for the features. Involved in the process of support/maintain/bugfix in different projects. Designed the Deployment and Continuous Integration processes."
 - experience:
   role: Full Stack Ruby on Rails Developer
   time: 2016 - 2017
@@ -14,17 +12,14 @@
   role: Full Stack Ruby on Rails Developer
   time: 2014 - 2015
   company: Shoutsy.io, Los Angelos
-  details: "Design and implemntation of the whole web application from scratch. Design the backend as well
-  as the frontend using bootstrap template. Setup mailing and payment systems. Support and bugfix."
+  details: "Design and implemntation of the whole web application from scratch. Design the backend as well as the frontend using bootstrap template. Setup mailing and payment systems. Support and bugfix."
 - experience:
   role: Senior Automation QA Engineer
   time: 2013 - 2014
   company: Cuponation, Munich
-  details: "Writing Automation tests for websites in Ruby using Selenium Webdriver. Manual QA if needed.
-  Involved in deployment process also."
+  details: "Writing Automation tests for websites in Ruby using Selenium Webdriver. Manual QA if needed. Involved in deployment process also."
 - experience:
   role: Oracle Database Developer
   time: 2011 - 2013
   company: Lsoft LTD, Yerevan
-  details: "Implement new features on Oracle in PL/SQL language. Small Java feature implementation for
-  the Bank System. Support and bugfix. "
+  details: "Implement new features on Oracle in PL/SQL language. Small Java feature implementation for the Bank System. Support and bugfix. "
