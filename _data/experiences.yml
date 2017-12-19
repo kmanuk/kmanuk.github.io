@@ -4,23 +4,20 @@
   company: Customertimes, Kyiv
   details: "Develop new features from scratch, maintain old ones. Writing unit and integration
   tests for the features. Involved in the process of support/maintain/bugfix in different projects.
-  Designed the deployment and continuous integration processes."
+  Designed the Deployment and Continuous Integration processes."
 - experience:
   role: Full Stack Ruby on Rails Developer
   time: 2016 - 2017
   company: Zeneuro, New York
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  details: "Implementing the tour guide from scratch, backend and frontend. Design the Deployment and
+  Continous Integration processes. Support the project on all levels from development till problems with
+  customers."
 - experience:
   role: Full Stack Ruby on Rails Developer
   time: 2014 - 2015
   company: Shoutsy.io, Los Angelos
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  details: "Design and implemntation of the whole web application from scratch. Design the backend as well
+  as the frontend using bootstrap template. Setup mailing and payment systems. Support and bugfix."
 - experience:
   role: Senior Automation QA Engineer
   time: 2013 - 2014
