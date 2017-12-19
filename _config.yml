@@ -15,10 +15,8 @@ style: styles-7
 name: Manuk Karapetyan
 tagline: Full Stack Ruby on Rails Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="##" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'Want to be involved in a team with amazing Ruby on Rails developers, grow with them and
+make my value to the company. Hungry for new challenges! '
 
 #sidebar links
 email: manuk.karapetyan@gmail.com
