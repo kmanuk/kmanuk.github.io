@@ -3,7 +3,7 @@ title: My Resume
 url: 'https://kmanuk.github.io'
 baseurl: '/' #change it according to your repository name
 
-# Enable  one of these styles by removing #. Style will be applied only after restarting the build or serve.
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
 #style: styles-3
 #style: styles-4
@@ -16,7 +16,7 @@ name: Manuk Karapetyan
 tagline: Full Stack Ruby on Rails Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Want to be involved in a team with amazing Ruby on Rails developers, grow with them and
-make my value to the company. Hungry for new challenges! '
+make my value to the company. Hungry for new challenges!'
 
 #sidebar links
 email: manuk.karapetyan@gmail.com
